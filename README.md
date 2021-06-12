@@ -5,13 +5,14 @@
 ### I'm undergraduate bachelor MIPT student of<br>Dpt. of Radio Engineering and Computer Technology. <br>I love physics, hardware and software engineering!
 
 # :mailbox: Contact information
+
 * Mail: shcherbakov.aa@phystech.edu | alex-shch@yandex.ru
-* VK:   [alex__shch](https://vk.com/alex__shch)
-* LinkedIn [alexshch](https://linkedlin.com/in/alexshch)
-* Facebook [alexey.a.shcherbakov](https://facebook.com/alexey.a.shcherbakov)
+* VK: [alex__shch](https://vk.com/alex__shch)
+* LinkedIn: [alexshch](https://linkedlin.com/in/alexshch)
+* Facebook: [alexey.a.shcherbakov](https://facebook.com/alexey.a.shcherbakov)
 * Telegram: pr0kuk
 
-# :information_source: Some info about me :
+# :information_source: Info:
 * :mortar_board: I’m currently learning applied mathematics, physics, radio engineering,
   programming and embedded systems at MIPT.
 
