@@ -2,7 +2,7 @@
 
 # Introduction 
 
-### I'm undergraduate bachelor MIPT student of Dpt. of Radio Engineering and Computer Technology. <br>I enjoy physics, hardware and software engineering!
+### I'm a student at MIPT Dpt. of Radio Engineering and Computer Technology. <br>I enjoy physics, hardware and software engineering!
 
 # :mailbox: Contact information
 
