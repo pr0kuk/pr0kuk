@@ -2,7 +2,7 @@
 
 # Introduction 
 
-### I'm undergraduate bachelor MIPT student of<br>Dpt. of Radio Engineering and Computer Technology. <br>I love physics, hardware and software engineering!
+### I'm undergraduate bachelor MIPT student of Dpt. of Radio Engineering and Computer Technology. <br>I enjoy physics, hardware and software engineering!
 
 # :mailbox: Contact information
 
@@ -13,8 +13,12 @@
 * Telegram: pr0kuk
 
 # :information_source: Info:
-* :mortar_board: I’m currently learning applied mathematics, physics, radio engineering,
-  programming and embedded systems at MIPT.
+* :mortar_board: I'm studying applied mathematics, physics, radio and software engineering at MIPT.<br>
+* :office: Work as an Intern Hardware Engineer in Milandr.
+* :soccer: Love playing hockey
+* :musical_keyboard: Play piano
+* :closed_book: Enjoy good fantasy such as Star Wars, The Lord of the Rings and The Witcher
+* :bookmark_tabs: [Here](https://github.com/pr0kuk/about_me/blob/main/shcherbakov_cv.pdf) or below you can see my CV
 
 # :chart_with_upwards_trend: GitHub stats
 
@@ -25,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pr0kuk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="pr0kuk's GitHub Stats" />
 </a>    
 
-# :wrench: Skills:
+# :wrench: Some of my skills you might be interested in:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
@@ -46,3 +50,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# :bookmark_tabs: CV
+[![CV](https://github.com/pr0kuk/about_me/blob/main/shcherbakov_cv_preview.png)](https://github.com/pr0kuk/about_me/blob/main/shcherbakov_cv.pdf)
