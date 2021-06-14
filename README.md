@@ -12,7 +12,7 @@
 * Facebook: [alexey.a.shcherbakov](https://facebook.com/alexey.a.shcherbakov)
 * Telegram: pr0kuk
 
-# :information_source: Info:
+# :information_source: Some info about me
 * :mortar_board: I'm studying applied mathematics, physics, radio and software engineering at MIPT.<br>
 * :office: Work as an Intern Hardware Engineer in Milandr.
 * :soccer: Love playing hockey
