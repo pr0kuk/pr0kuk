@@ -14,7 +14,7 @@
 
 # :information_source: Some info about me:
 * :mortar_board: I'm studying applied mathematics, physics, radio and software engineering at MIPT.<br>
-* :office: Work as an Intern Hardware Engineer in Milandr.
+* :office: Work as an Analog Design Engineer at JSC «ICC Milandr».
 * :soccer: Love playing hockey
 * :musical_keyboard: Play piano
 * :closed_book: Enjoy good fantasy such as Star Wars, The Lord of the Rings and The Witcher
