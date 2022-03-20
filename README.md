@@ -10,7 +10,7 @@
 * VK: [alex__shch](https://vk.com/alex__shch)
 * LinkedIn: [alexshch](https://linkedlin.com/in/alexshch)
 * Facebook: [alexey.a.shcherbakov](https://facebook.com/alexey.a.shcherbakov)
-* Telegram: pr0kuk
+* Telegram: @pr0kuk
 
 # :information_source: Some info about me:
 * :mortar_board: I'm studying applied mathematics, physics, radio and software engineering at MIPT.<br>
